@@ -71,7 +71,7 @@ and its warped counterpart to verify that the lines appear parallel(kind of) in 
 
 ![alt text][image2]
 
-#### 3. color transforms, gradients or other methods to create a thresholded binary image.
+#### 3. color transforms, gradients to create a thresholded binary image.
 In this step:
 * I combined three sobel methods`'hls_select`(directional gradient `abs_sobel_thresh`, gradient magnitude `mag_thresh`, 
 gradient direction `dir_threshold`).
@@ -92,7 +92,7 @@ I implemented a method called `find_lane_pixels()`, which does following work:
 
 ![alt text][image4]
 The function I mentioned above can be found in `helpfunctions.py`. 
-#### 5.Calculation of  the radius of curvature of the lane and the position of the vehicle with respect to center.
+#### 5.Calculation of  the radius of curvature of the lane and the position of the vehicle with respect to center
 I implemented a method called `measure_curvature_pixels()`, which does following work:
 Following codes calculated curvature of left and right line(`left_curverad `,`right_curverad ` ) to get meters of curvature and 
 distance to vehicle center('center_diff')
