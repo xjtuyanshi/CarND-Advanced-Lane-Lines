@@ -1,0 +1,4 @@
+[
+  "testBench.py::test_wraped_effect",
+  "testBench.py::test_curvature"
+]

@@ -32,7 +32,7 @@ for fname in images:
 
         plt.imshow(img)
         plt.plot()
-        cv2.waitKey(1500)
+        plt.show()
 
 #cv2.destroyAllWindows()
 ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(objpoints, imgpoints, gray.shape[::-1], None, None)

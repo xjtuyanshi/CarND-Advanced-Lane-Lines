@@ -1,0 +1,5 @@
+{
+  "helperFunctions.py::test_wraped_effect": true,
+  "testBench.py::test_curvature": true,
+  "testBench.py::test_wraped_effect": true
+}
