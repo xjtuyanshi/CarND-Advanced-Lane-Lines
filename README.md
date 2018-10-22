@@ -147,4 +147,4 @@ better and stable results. I think there should be some other methods to pick la
 * Nevertheless, the output video results are still very sensitive to road quality, shadows, overexposed video image,
 sharp curvature(hard_challenge_video). We need to fine tune the parameters to make sure the pipe line works better in a certain
 situation but it most likely will not work well in the another situation. 
-* Due to limited time, I didn't get a chance to find some latest research on lane detection butI would like to learn more robust lane detection techniques in following studies.  
+* Due to limited time, I didn't get a chance to find some latest research on lane detection but I would like to learn more robust lane detection techniques in following studies.  
