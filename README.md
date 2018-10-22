@@ -23,14 +23,13 @@ The steps of this project are the following:
 [image_cam_cal1]: ./output_images/undistorted_chessboard.png?raw=true" "undistored chessboard image"
 [image1]: ./output_images/undistort_output.png "Undistorted Road Image"
 [image2]: ./output_images/undistort_warp.png "Undistorted and warped Road Image"
-[image3]: ./output_images/undistort_warp_color_sobel_combined.png "Binary Image"
+[image3]: ./output_images/undistort_warp_color_sobel_combined.png?raw=true" "Binary Image"
 [image4]: ./output_images/poly_fit_img.png "Fit Visual"
 [image5]: ./output_images/lane_image.png "Output"
 [video1]: ./output_videos/project_video_ouput.mp4 "Video_project"
 
 ### Camera Calibration
 
-``
 The code for this step is contained in the file (`camera_cal.py`).  
 
 I start by preparing "object points", which will be the (x, y, z) coordinates of the chessboard corners in the world. 
@@ -38,8 +37,10 @@ Here I am assuming the chessboard is fixed on the (x, y) plane at z=0, such that
 Thus, `objp` is just a replicated array of coordinates, and `objpoints` will be appended with a copy of it every time I successfully detect all chessboard corners in a test image.  `imgpoints` will be appended with the (x, y) pixel position of each of the corners in the image plane with each successful chessboard detection.  
 Below is the a chessboard image with detected corners.
 ![alt text][image_cam_cal0]
+
 I then used the output `objpoints` and `imgpoints` to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function.  I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result: 
 ![alt text][image_cam_cal1]
+
 Finally, I saved the `camera matrix` and `distortion coefficient` into a pickle file (`calibrated_camera_info.p`) for future use.
 ### Pipeline (single images)
 
