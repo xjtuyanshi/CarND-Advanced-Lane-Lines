@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b55e7678-8ad3-47d3-84ac-d8cfc698b22c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoToFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helperFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testBench.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UndistortAndTransform.py" beforeDir="false" afterPath="$PROJECT_DIR$/UndistortAndTransform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/camera_cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/camera_cal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writeup_template.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,15 +110,15 @@
           <entry key="Lines" value="1" />
           <entry key="color_space_test" value="3" />
           <entry key="dummy" value="15" />
-          <entry key="md" value="4816" />
+          <entry key="md" value="4821" />
           <entry key="py" value="8094" />
-          <entry key="txt" value="55" />
+          <entry key="txt" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="4813" />
-          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="Markdown" value="4818" />
+          <entry key="PLAIN_TEXT" value="177" />
           <entry key="Python" value="8101" />
         </counts>
       </usages-collector>
@@ -144,38 +133,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testBench.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
+            <state relative-caret-position="23">
               <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <marker date="1540166089347" expanded="false" signature="949:1783" ph="..." />
                 <marker date="1540166089347" expanded="true" signature="2615:4230" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UndistortAndTransform.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="e#905#2110#0" />
               </folding>
             </state>
           </provider>
@@ -198,8 +163,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1151">
-                <caret line="25" column="52" lean-forward="true" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+              <first_editor relative-caret-position="1612">
+                <caret line="133" column="48" lean-forward="true" selection-start-line="133" selection-start-column="48" selection-end-line="133" selection-end-column="48" />
               </first_editor>
               <second_editor />
             </state>
@@ -529,7 +494,35 @@
       <option name="project" value="LOCAL" />
       <updated>1538899338475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added project and challenge video and readme MD">
+      <created>1540173112502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540173112502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revised MD">
+      <created>1540174077603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540174077603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revised MD fixed video link">
+      <created>1540174230363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540174230363</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revised MD fixed video link 2">
+      <created>1540174246406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540174246406</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -560,10 +553,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1633" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.52595156" visible="true" weight="0.17777778" />
-      <window_info id="Structure" order="1" sideWeight="0.47404844" side_tool="true" visible="true" weight="0.17777778" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.52589" visible="true" weight="0.17777778" />
+      <window_info id="Structure" order="1" sideWeight="0.47411004" side_tool="true" visible="true" weight="0.17777778" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -574,11 +566,11 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.15746032" side_tool="true" weight="0.3394794" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.84253967" visible="true" weight="0.37310195" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.84253967" weight="0.37310195" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -595,7 +587,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add camera_cal and undistort/transform code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add camera_cal and undistort/transform code" />
+    <MESSAGE value="Added project and challenge video and readme MD" />
+    <MESSAGE value="Revised MD" />
+    <MESSAGE value="Revised MD fixed video link" />
+    <MESSAGE value="Revised MD fixed video link 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revised MD fixed video link 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -848,38 +844,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/color_space_test.py" />
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testBench.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1540166089347" expanded="false" signature="949:1783" ph="..." />
-            <marker date="1540166089347" expanded="true" signature="2615:4230" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UndistortAndTransform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#905#2110#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/lib/polynomial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12742">
@@ -940,11 +904,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UndistortAndTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#905#2110#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testBench.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1540166089347" expanded="false" signature="949:1783" ph="..." />
+            <marker date="1540166089347" expanded="true" signature="2615:4230" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1151">
-            <caret line="25" column="52" lean-forward="true" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+          <first_editor relative-caret-position="1612">
+            <caret line="133" column="48" lean-forward="true" selection-start-line="133" selection-start-column="48" selection-end-line="133" selection-end-column="48" />
           </first_editor>
           <second_editor />
         </state>
