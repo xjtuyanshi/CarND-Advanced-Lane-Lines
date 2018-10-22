@@ -126,13 +126,16 @@ I implemented this step in lines # through # in my code in `helpfunctions.py` in
 * If the fit of this frame cannot pass sanity check, it will use last 5 frames' averaged fit to draw lanes.
 
 * Project Video
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W3Ay3zN6sLA/0.jpg)](https://www.youtube.com/watch?v=W3Ay3zN6sLA)
 
 * Challenge Video
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OZ4KaoYW8pM/0.jpg)](https://www.youtube.com/watch?v=OZ4KaoYW8pM)
-* Here's a [link to project video result](./output_videos/project_video_ouput.mp4)
-* Here's a [link to challenge video result](./output_videos/challenge_video_ouput.mp4)
-* My hard challenge video is not usable(results are way to bad) but here is the link:[link to hard challenge video result](./output_videos/harder_challenge_video_output.mp4)
+
+* Here's a [link to project video result](output_videos/project_video_ouput.mp4)
+* Here's a [link to challenge video result](output_videos/challenge_video_ouput.mp4)
+* My hard challenge video is not usable(results are way to bad) but here is the link:[link to hard challenge video result](output_videos/harder_challenge_video_output.mp4)
 ---
 
 ### Discussion
